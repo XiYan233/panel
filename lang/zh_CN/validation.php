@@ -158,7 +158,7 @@ return [
 
     'custom' => [
         'attribute-name' => [
-            'rule-name' => 'custom-message',
+            'rule-name' => '自定义消息',
         ],
     ],
 
